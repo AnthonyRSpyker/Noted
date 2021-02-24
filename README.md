@@ -5,6 +5,6 @@ This is a dynamic note taker using node.js.  Noted is a back end application tha
 
 The application is deployed through Heroku and has a live url (https://nameless-sierra-02452.herokuapp.com/).  When the application is deployed the user is brought directly to the home page of the website.
 
-$ [this is the hompage of the website](/images/first_photo.png)
+![this is the hompage of the website](/images/first_photo.png)
 
 
