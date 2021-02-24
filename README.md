@@ -28,7 +28,7 @@ The user can delete the message by clicking the trash can directly next to the s
 
 ## Tech
   - node.js
-    packages used:
+    (packages used found below)
       - express
       - fs
       - uniqid
