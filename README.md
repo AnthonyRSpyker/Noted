@@ -27,5 +27,17 @@ The user can delete the message by clicking the trash can directly next to the s
 
 
 ## Tech
+  - node.js
+    packages used:
+      - express
+      - fs
+      - uniqid
+      - util
+  - Heroku
 
+## Thank you
+
+  Thank you for checking out my application.  If you are interested in contributing, please make a pull request.  All contributions will be concidered.
+  
+  Thank you again!
 
