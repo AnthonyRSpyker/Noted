@@ -6,7 +6,7 @@ const path = require('path');
 
 //sets up express and the port
 const app = express();
-const PORT = 3000;
+var PORT = process.env.PORT || 8080;
 
 //makes it so express returns objects parssed.
 app.use(express.urlencoded({ extended: true }));
